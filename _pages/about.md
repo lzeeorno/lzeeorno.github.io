@@ -44,7 +44,7 @@ Working Experiences
   Conducted statistical analysis about Tencent news retrieval behaviors, including segmentation analysis and word frequency calculations.
 - **2021/03-2021/07**: Python Instructor at Codemao Technology  
   Taught Python to teenagers and compiled overseas teaching materials.
-- **2023/01-2023/08**: Research Assistant at SIAT  
+- **2023/01-2023/08**: Research Assistant Intern at SIAT  
   Assisted in medical imaging-related research, including patents, software works, and publications.
 
 Project Experiences
