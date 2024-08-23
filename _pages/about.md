@@ -14,8 +14,8 @@ My Academic Journey
 - ⚙️ In August 2024, I submitted my second **software copyright** application for the "Automatic Registration System V1.0 for 3D Medical Images".
 - 📈 In August 2024, my first academic paper, **"SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation," was accepted by IEEE BIBM 2024 (CCF B)**.
 - 🖥️ In July 2024, I submitted my first **software copyright** application for the "Accurate Automatic Segmentation System V1.0 for Liver Tumors and Multiple Organs in 3D Medical Images."
-- 🤖 On March 5, 2024, I obtained the qualification of **Medical Artificial Intelligence Application Engineer**.
-- 🏆 On January 9, 2024, I obtained the qualification of **Biomechanics and Medical 3D Modeling Application Engineer**.
+- 🤖 On March 5, 2024, I obtained the **Certificate** of **Medical Artificial Intelligence Application Engineer**.
+- 🏆 On January 9, 2024, I obtained the **Certificate** of **Biomechanics and Medical 3D Modeling Application Engineer**.
 - 🎓 In 2023, I received an offer from the joint **PhD** program between the University of Macau and CAS (SIAT) and began pursuing a doctorate degree. My current research focus is on computer vision.
 - 💡 In May 2023, I submitted two **patent invention** applications.
 - 🔬 In February 2023, I joined the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, as a research assistant intern.
