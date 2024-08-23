@@ -12,7 +12,7 @@ title                    : "FuChen ZHENG / Personal Homepage"
 title_separator          : "-"
 name                     : &name "FuChen ZHENG"
 description              : &description "personal description"
-url                      : https://lzeeorno.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : 'https://lzeeorno.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lzeeorno/lzeeorno.github.io"
 
@@ -21,14 +21,14 @@ repository               : "lzeeorno/lzeeorno.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WechatIMG815.jpeg"
+  avatar           : "WechatIMG815.jpeg"
   name             : "FuChen ZHENG"
   pronouns         : # example: "she/her"  
   bio              : "Idle boast the strong pass is a wall of iron, With firm strides we are crossing its summit."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University Of Macau"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lzeeorno@ieee.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
