@@ -6,7 +6,7 @@ permalink: /publication/SMAFormer
 excerpt: 'This paper is about small tumors and organs Segmentation Problem.'
 date: 2024-08-16
 venue: 'IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
-paperurl: 'http://academicpages.github.io/files/SMAFormer_IEEE_BIBM2024.pdf'
+paperurl: 'http://lzeeorno.github.io/files/SMAFormer_IEEE_BIBM2024.pdf'
 citation: 'comming soon'
 ---
 
