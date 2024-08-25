@@ -1,6 +1,6 @@
 ---
 title: "Certificate"
-excerpt: "**Certificate** of **Medical Artificial Intelligence Application Engineer**<br/><img src='/images/医学人工智能应用工程师.jpeg'>"
+excerpt: "**Certificate** of **Medical Artificial Intelligence Application Engineer**<br/><img src='/images/医学人工智能应用工程师_mask.jpeg'>"
 collection: portfolio
 ---
 
