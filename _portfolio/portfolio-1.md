@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Certificate"
+excerpt: "**Certificate** of **Medical Artificial Intelligence Application Engineer**<br/><img src='/images/医学人工智能应用工程师.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+On March 5, 2024, I obtained the Certificate of Medical Artificial Intelligence Application Engineer.
